@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-experimental
+pandas
+faiss-cpu
+streamlit
+faker
+python-dotenv
+tabulate
+sentence-transformers

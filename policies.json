@@ -1,0 +1,18 @@
+[
+  {
+    "id": "POL-101",
+    "rule": "Diabetes claims require Prior Auth Form 88B. Claims without this are automatically denied."
+  },
+  {
+    "id": "POL-102",
+    "rule": "Claims under $500 are auto-approved. Claims over $5000 require manual review by a Senior Auditor."
+  },
+  {
+    "id": "POL-103",
+    "rule": "Denials for 'Medical Necessity' can be appealed within 30 days. Coding errors cannot be appealed; they must be resubmitted."
+  },
+  {
+    "id": "POL-104",
+    "rule": "Cardiac procedures (CPT 33000-33999) require a specialized cardiology review panel approval."
+  }
+]
